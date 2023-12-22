@@ -1,4 +1,5 @@
 def to_upper(input_string):
+    ''' Функция выводит все заглавными '''
     return input_string.upper()
 
 def capitalize_first_letters(input_string):
